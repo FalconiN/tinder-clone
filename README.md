@@ -6,6 +6,7 @@ Olá Pessoal -
 A aplicação foi feita acompanhando o canal #dicasparadevs no Youtube, com a finalinade
 de praticar estruturação HTML e flex box com CSS 
 
+___________________________________________________________________________________________
 
 Tinder clone
 
